@@ -7,3 +7,4 @@ cilantro
 habanero
 
 peppers
+more salt to taste
