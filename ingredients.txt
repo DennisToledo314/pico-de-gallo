@@ -4,3 +4,4 @@ garlic
 lemon juice
 salt
 cilantro
+habanero
