@@ -2,3 +2,5 @@ tomatoes
 onions
 garlic
 lemon juice
+salt
+cilantro
