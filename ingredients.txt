@@ -1,2 +1,3 @@
 tomatoes
 onions
+garlic
